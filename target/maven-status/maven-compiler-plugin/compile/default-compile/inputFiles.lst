@@ -1,0 +1,9 @@
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/home/santoshb/azure_notes/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
